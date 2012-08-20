@@ -1,0 +1,24 @@
+{
+    "name":"webrocker/hyphenator",
+    "type":"library",
+    "description":"a PHP Hyphenator",
+    "keywords":["hyphenator"],
+    "homepage":"https://github.com/webrocker/hyphenator",
+    "license":"New BSD",
+    "authors":[
+        {
+            "name":"Marco Fischer",
+            "email":"mfischer@web-rocker.de",
+            "homepage":"http://web-rocker.de",
+            "role":"Developer"
+        }
+    ],
+    "require":{
+        "php":">=5.3.0"
+    },
+    "autoload":{
+        "psr-0":{
+            "Hyphenator":"src"
+        }
+    }
+}

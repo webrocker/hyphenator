@@ -1,4 +1,4 @@
 hyphenator
 ==========
 
-Object-oriented port of phpHyphenator
+Object-oriented port of Hyphenator.js
