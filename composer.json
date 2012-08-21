@@ -2,7 +2,7 @@
     "name":"webrocker/hyphenator",
     "type":"library",
     "description":"Hyphenator is a cache-enabled PHP port of the JavaScript Hyphenator.js by Mathias Nater.",
-    "keywords":["hyphenator"],
+    "keywords":["hyphenator", "hyphenation", "hyphenate"],
     "homepage":"https://github.com/webrocker/hyphenator",
     "license":"New BSD",
     "authors":[
