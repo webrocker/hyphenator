@@ -73,6 +73,6 @@ grosszuegig unser Spezialfleckenwasser in die Gegend. Dann fahre ich den
 schweren Bandwagen ein paar Mal darueber und klemme es zum kroenenden
 Abschluss vier, fuenf Mal in die schwere Safetuere ein, wo wir die Backup-
 Baender aufbewahren sollten. Huebsch. Ich schleiche zurueck in den Druckerraum und suche die Tonerkassette, die
-wir fuer spezielle Faelle aufbewaren - die mit den dicken schwarzen Streifen
+wir fuer spezielle Faelle aufbewahren - die mit den dicken schwarzen Streifen
 in der Mitte und den blassen Raendern.');
 
